@@ -2,7 +2,7 @@ alert("Этот код выполнен из внешнего файла!");
 console.log("Сообщение в консоли");
 
 
-var userName = 'Max';
+var userName = 'Danik';
 var birthYear = 2005;
 var isStudent = true;
 
